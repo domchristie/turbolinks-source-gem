@@ -1,0 +1,1 @@
+This gem is only used for distributing official [Turbolinks]((https://github.com/turbolinks/turbolinks)) releases. To integrate Turbolinks into your Rails application, try the [turbolinks-rails](https://github.com/turbolinks/turbolinks-rails) engine. See [Installation Using Ruby on Rails](https://github.com/turbolinks/turbolinks#installation-using-ruby-on-rails) for more details.
